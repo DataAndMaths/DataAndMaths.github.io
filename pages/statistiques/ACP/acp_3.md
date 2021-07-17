@@ -28,4 +28,4 @@ On va le faire axe par axe : on recherche un 1e axe qui va représenter au mieux
 
 * <u>Objectif</u>
   * On cherche la direction $u_1$ telle que la variance du nuage des points projetés $H^1_i$ soit maximale.
-  * variance : $$ \sum_i \frac{1}{I} (OH^1_i)^2    
+  * variance : $$ \sum_i \frac{1}{I} (OH^1_i)^2$$    
