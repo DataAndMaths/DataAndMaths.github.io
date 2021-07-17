@@ -16,9 +16,6 @@ Voici une réutilisation des [données](https://datascience.etalab.studio/dgml/c
 
 NB : Il y a une mise à jour très récente de Streamlit, du coup, c'est lent, ça bug, ... 😕
 
-{: .box-note}
-**Note:** Suivant les choix, certaines fonctions peuvent prendre plus de temps, il est conseillé d'attendre la fin de l'action avant d'enclencher une autre action.
-
 ------------------------------------
 
 ## Cadre
