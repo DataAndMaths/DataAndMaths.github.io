@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistiques
-subtitle: blabla
+subtitle: 
 ---
 
 
