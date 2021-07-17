@@ -11,4 +11,4 @@ Nous avons deux nuages de points.
 
 ## Nuage des individus $N_I$
 
-## Nuage des varaibles $N_K$
+## Nuage des variables $N_K$
