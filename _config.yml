@@ -16,7 +16,7 @@ author: DataAndMaths
 navbar-links:
   ##About Me: "aboutme"
   Pages:                          
-    - Statistiques: "github.com/DataAndMaths/DataAndMaths.github.io/blob/master/_pages/aboutme"
+    - Statistiques: "pages/statistiques/stat_main_page"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     ##- Learn markdown: "https://www.markdowntutorial.com/"
   ##Author's home: "https://deanattali.com"
