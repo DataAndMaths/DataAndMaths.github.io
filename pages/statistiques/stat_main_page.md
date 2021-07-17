@@ -3,7 +3,6 @@ layout: page
 title: Statistiques
 subtitle: blabla
 katex : true
-
 ---
 
 
