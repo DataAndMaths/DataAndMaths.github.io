@@ -21,6 +21,7 @@ Nous considérons des données avec I individus et K variables numériques.
 |...|||||
 |ind I|||||
 
+<br/>
 
 # Objectifs ?
 
