@@ -10,12 +10,7 @@ subtitle: blabla
 
 
 
-Here, have some $$\pi$$.
-
-The greatest equation known to man is: 
-
-$$ e^{ix} = \cos{x} + i \sin{x} $$
-
+# Analyse en Composantes Principales (ACP)
 
 [acp_1](ACP/acp_1.md)
 
