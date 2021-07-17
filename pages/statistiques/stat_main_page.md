@@ -2,6 +2,7 @@
 layout: page
 title: Statistiques
 subtitle: blabla
+mathjax: true
 ---
 
 
