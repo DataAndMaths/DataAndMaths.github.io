@@ -14,7 +14,11 @@ Voici une réutilisation des [données](https://datascience.etalab.studio/dgml/c
 
 [Lien vers l'application](https://share.streamlit.io/dataandmaths/agribalyse_data/main/main.py) (en construction 🏗️)
 
-NB : Il y a une mise à jour très récente de Streamlit, du coup, c'est lent, ça bug, ... 😕
+{: .box-note}
+**NB:**  Il y a une mise à jour très récente de Streamlit, il est possible que ce soit lent ou que ça bug, ... 😕
+
+{: .box-warning}
+**Warning:** Lors des sélections multiples, il est conseillé de faire une seule sélection, de laisser tourner, puis d'enclencher la sélection suivante, sinon la page peut bugger et revenir à zéro. 
 
 ------------------------------------
 
