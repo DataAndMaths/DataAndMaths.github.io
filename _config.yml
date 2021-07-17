@@ -14,9 +14,9 @@ author: DataAndMaths
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  ##About Me: "aboutme"
+  About Me: "aboutme.md"
   Pages:                          
-    - Statistiques: "/_pages/aboutme"
+    - Statistiques: "_pages/aboutme.md"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     ##- Learn markdown: "https://www.markdowntutorial.com/"
   ##Author's home: "https://deanattali.com"
