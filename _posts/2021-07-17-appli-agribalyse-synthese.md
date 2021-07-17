@@ -23,7 +23,9 @@ Voici une réutilisation des [données](https://datascience.etalab.studio/dgml/c
 {: .box-warning}
 **Warning:** Lors des sélections multiples, il est conseillé de faire une seule sélection, de laisser tourner, puis d'enclencher la sélection suivante, sinon la page peut bugger et revenir à zéro. 
 
+
 ------------------------------------
+<br/><br/>
 
 ## Cadre
 
