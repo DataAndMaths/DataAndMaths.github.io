@@ -12,10 +12,10 @@ subtitle:
 
 # Analyse en Composantes Principales (ACP)
 
-[acp 1](ACP/acp_1.md) <br/>
-[acp 2](ACP/acp_2.md) <br/>
-[acp 3](ACP/acp_3.md) <br/>
-[acp 4](ACP/acp_4.md) <br/>
-[acp 5](ACP/acp_5.md) <br/>
+[1. Cadre général](ACP/acp_1.md) <br/>
+[2. Aspect géométrique](ACP/acp_2.md) <br/>
+[3. Comment représenter le nuage des individus $N_I$ plus simplement ?](ACP/acp_3.md) <br/>
+[4](ACP/acp_4.md) <br/>
+[5](ACP/acp_5.md) <br/>
 
 
