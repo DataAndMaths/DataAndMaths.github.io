@@ -33,4 +33,20 @@ On va le faire axe par axe : on recherche un 1e axe qui va représenter au mieux
   
 * <u>Remarques</u>
   * Rappelons que les données sont centrées : l'origine O du repère est confondu avec le centre de gravité $G_I$ du nuage. 
-  * On peut montrer que maximiser la variance revient à maximiser les distances entre les individus : $$\sum_{i,j} d(H^1_i,H^1_j)^2$$. 
+  * On peut montrer que maximiser la variance revient à maximiser les distances entre les individus projetés : $$\sum_{i,j} d(H^1_i,H^1_j)^2$$. 
+
+### 2e axe
+
+* <u>Notations</u>
+  * $u_2$ : un vecteur unitaire, qui donne la direction de l'axe que l'on cherche (le 2 en indice rappelle qu'il s'agit du 1e axe)
+  * $M_i$ : un point du nuage
+  * $H^2_i$ : projeté de $M_i$ sur l'axe (l'exposant 2 est là pour rappeler qu'on projette sur le 2e axe) <br/>
+
+* <u>Objectif</u>
+  * On cherche la direction $u_2$ telle que :
+   * la variance du nuage des points projetés $H^1_i$ soit maximale : $$ \sum_i \frac{1}{I} (OH^2_i)^2$$ maximale
+   * $u_2$ soit orthogonale à $u_1$.
+
+### 3e axe, ...
+
+On procède même pour les axes suivants.
