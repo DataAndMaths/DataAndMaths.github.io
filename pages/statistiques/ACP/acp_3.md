@@ -54,9 +54,9 @@ On procède de même pour les axes suivants.
 
 ## Comment obtenir ces axes ? 
 
-On considère la matrice de corrélaions C. 
+On considère la matrice de corrélations C. 
 
 {: .box-note}
-**Propriétés** 
-P1 : $u_1$, $u_2$, ... sont les vecteurs propres de C associés aux valeurs propres $\lambda_1 \geq  \lambda_2 \geq$ ... (rangées dans l'ordre décroissant).
-P2 : LA valeur propre $\lambda_i$ est égale à l'inertie projetée sur $u_i$.
+**Propriétés** <br/>
+P1 : $u_1$, $u_2$, ... sont les vecteurs propres de C associés aux valeurs propres $\lambda_1 \geq  \lambda_2 \geq$ ... (rangées dans l'ordre décroissant). <br/>
+P2 : La valeur propre $\lambda_i$ est égale à l'inertie projetée sur $u_i$.
