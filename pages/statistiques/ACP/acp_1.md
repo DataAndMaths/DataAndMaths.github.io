@@ -14,12 +14,14 @@ Lorsqu'on a des données de grande dimension (avec plus de 3 variables), il est 
 
 Nous considérons des données avec I individus et K variables numériques. 
 
-| |var 1|var 2|...|var K|
-|:----|:-----|:-----|:----|:----|
-|ind 1|||||
-|ind 2|||||
-|...|||||
-|ind I|||||
+| |var 1|var 2|...|k|...|var K|
+|:----|:-----|:-----|:----|:----|:----|:----|
+|ind 1|||||||
+|ind 2|||||||
+|...|||||||
+|i||||$x_{ik}$|||
+|...|||||||
+|ind I|||||||
 
 <br/>
 
