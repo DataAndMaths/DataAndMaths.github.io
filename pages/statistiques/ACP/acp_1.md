@@ -48,9 +48,24 @@ Pour chaque variable/colonne, on notera :
 * Quelle est la typologie des variables ?
 * En ACP, on ne considère que les liaisons linéaires. 
 * En grande dimension, avec beaucoup de variables, on voudrait en avoir moins : comment pourrait-on synthétiser ces variables ?  
-  Ces variables synthétiques seront les fameuses composantes principales. 
+  Ces variables synthétiques seront les fameuses composantes principales. <br/>
   
-# Préparation des données
+  
+# Quelques points techniques
+
+## Poids des données
+
+Dans toute la suite, on attribuera :
+* le même poids à chaque individu : $\frac{1}{I}
+* le même poids à chaque variable : 1. <vr/>
+
+
+## Préparation des données
 
 {: .box-warning}
-**Cadre** Dans toute la suite, on considère les données **centrées-réduites**.
+**Cadre** <br/>
+Dans toute la suite, on considère les données **centrées-réduites**.
+
+Cela signifie que pour chaque colonne :
+* on soustrait la moyenne : $x_{ik} - {\bar x}_k$
+* puis on divise par son écart-type : $\frac{x_{ik} - {\bar x}_k}{s_k}$. 
