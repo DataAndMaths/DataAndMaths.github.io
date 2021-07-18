@@ -12,9 +12,10 @@ Nous avons deux nuages de points.
 ## L'espace ambiant
 * Chaque individu est décrit par K variables : ce nuage se trouve donc dans l'espace $R^K$.
 * NB : il y a I individus, ce qui explique l'indice I dans $N_I$. <br/>
-* En se référant au tableau de données initial, on a pour l'individu i : $ind~i = x_{i1}~var1 + x_{i2}~var2 + ... + x_{iK}~varK$.  
-Autrement dit, chaque individu s'exprime comme combinaison linéaire des variables.  
-Les axes du repère sont données par les variables. 
+* Les axes du repère sont données par les variables. 
+* Chaque individu s'exprime comme combinaison linéaire des variables.  
+En se référant au tableau de données initial, on a pour l'individu i : $ind~i = x_{i1}~var1 + x_{i2}~var2 + ... + x_{iK}~varK$.  
+  
 
 ## Point particulier : le centre de gravité $G_I$
 
