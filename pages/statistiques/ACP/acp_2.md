@@ -28,7 +28,7 @@ où
 
 ## Distance entre les points
 
-* La ressemblance des individus se traduire par la distance entre les points.
+* La ressemblance des individus se traduit par la distance entre les points.
 * L'ensemble des distances entre les points constitue la 'forme du nuage'. 
 * Etudier la forme du nuage revient à déceler :
   * une partition de ces points : des groupes homogènes ;  une typologie des individus   
