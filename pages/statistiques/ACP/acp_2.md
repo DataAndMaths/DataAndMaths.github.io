@@ -14,7 +14,7 @@ Nous avons deux nuages de points.
 ### L'espace ambiant
 * Chaque individu est décrit par K variables : ce nuage se trouve donc dans l'espace $R^K$.
 * NB : il y a I individus, ce qui explique l'indice I dans $N_I$. <br/>
-* Plutôt que de considérer des points $M_k$, on considère plutôt des vecteurs $\widevec{OM_k}$.
+* Plutôt que de considérer des points $M_k$, on considère plutôt des vecteurs $\vec{OM_k}$.
 
 ### Point particulier : le centre de gravité $G_I$
 
