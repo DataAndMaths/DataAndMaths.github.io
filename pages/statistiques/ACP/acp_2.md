@@ -13,7 +13,7 @@ Nous avons deux nuages de points.
 * Chaque individu est décrit par K variables : ce nuage se trouve donc dans l'espace $R^K$.
 * NB : il y a I individus, ce qui explique l'indice I dans $N_I$. <br/>
 * Les axes du repère sont données par les variables. 
-* En se référant au tableau de données initial, on a our chaque individu i, $ind~i = (x_{i1},x_{i2},...,x_{iK})$  
+* En se référant au tableau de données initial, on a pour chaque individu i, $ind~i = (x_{i1},x_{i2},...,x_{iK})$  
 où 
   * $x_{i1}$ est la coordonnées pour la variable 1
   * $x_{i2}$ est la coordonnée pour la variable 2
