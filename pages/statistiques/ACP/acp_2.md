@@ -15,7 +15,7 @@ Nous avons deux nuages de points.
 * Les axes du repère sont données par les variables. 
 * En se référant au tableau de données initial, on a pour chaque individu i, $ind~i = (x_{i1},x_{i2},...,x_{iK})$  
 où 
-  * $x_{i1}$ est la coordonnées pour la variable 1
+  * $x_{i1}$ est la coordonnée pour la variable 1
   * $x_{i2}$ est la coordonnée pour la variable 2
   * ...
   * $x_{iK}$ est la coordonnée pour la variable K. 
