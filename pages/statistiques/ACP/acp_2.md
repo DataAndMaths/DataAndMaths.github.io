@@ -51,7 +51,8 @@ P1 : Le cosinus de l'angle entre deux variables $V_k$ et $V_l$ est égal au coef
 $$cos(V_k,V_l) = corr(V_k,V_l)$$.  <br/><br/>
 P2 : Toutes les variables sont de longueur 1.  
 Les extrêmités des variables sont donc tous situées sur la sphère de rayon 1. 
-<br/> 
+
+<br/> <br/>
 
 ### Problème en grande dimension
 Nous avons toujours I > 3, il est impossible d'étudier directement ce nuage $N_K$.   
