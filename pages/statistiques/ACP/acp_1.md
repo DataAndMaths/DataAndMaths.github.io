@@ -23,6 +23,10 @@ Nous considérons des données avec I individus et K variables numériques.
 |...|||||||
 |ind I|||||||
 
+Pour chaque variable /colonne, on notera :
+* la moyenne ${\bar x}_k$
+* l'écart-type $s_k^$.
+
 <br/>
 
 # Objectifs ?
