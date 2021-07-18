@@ -41,7 +41,7 @@ Il est alors nécessaire d'avoir une représentation plane de ce nuage, une qui 
 * Plutôt que de considérer des points $M_k$, on considère plutôt des vecteurs $\vec{OM_k}$. <br/>
 
 ### Centrage et centre de gravité : Attention à l'interprétation
-Contrairement au cas précédent, le nuage $N_K$ n'est pas centrée en $G_I$. <br/>
+Contrairement au cas précédent, le nuage $N_K$ n'est pas centré en $G_I$. <br/>
 
 ### Propriétés du nuage $N_K$
 
@@ -49,5 +49,5 @@ Contrairement au cas précédent, le nuage $N_K$ n'est pas centrée en $G_I$. <b
 **Propriétés** <br/>
 P1 : Le cosinus de l'angle entre deux variables $V_k$ et $V_l$ est égal au coefficient de corrélation de $V_k$ et $V_l$ :
 $$cos(V_k,V_l) = corr(V_k,V_l)$$.  <br/>
-P2 : Tous les vecteurs sont de longueur 1.  
-Les extrêmités des vecteurs sont donc tous situés sur la sphère de rayon 1.
+P2 : Toutes les variables sont de longueur 1.  
+Les extrêmités des variables sont donc tous situées sur la sphère de rayon 1.
