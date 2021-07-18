@@ -49,3 +49,8 @@ Pour chaque variable/colonne, on notera :
 * En ACP, on ne considère que les liaisons linéaires. 
 * En grande dimension, avec beaucoup de variables, on voudrait en avoir moins : comment pourrait-on synthétiser ces variables ?  
   Ces variables synthétiques seront les fameuses composantes principales. 
+  
+# Préparation des données
+
+{: .box-warning}
+**Cadre** Dans toute la suite, on considère les données **centrées-réduites**.
