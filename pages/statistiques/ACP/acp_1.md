@@ -47,7 +47,7 @@ Pour chaque variable/colonne, on notera :
 * Existe-t-il des groupes de variables corrélées entre elles ?
 * Quelle est la typologie des variables ?
 * En ACP, on ne considère que les liaisons linéaires. 
-* En grande dimension, avec beaucoup de variables, on voudrait en avoir moins : comment pourrait-on synthétiser ces variables ?  
+* Comment pourrait-on synthétiser ces variables ?  
   Ces variables synthétiques seront les fameuses composantes principales. <br/><br/>
   
   
