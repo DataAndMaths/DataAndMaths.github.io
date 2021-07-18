@@ -12,7 +12,7 @@ Nous avons deux nuages de points.
 ## L'espace ambiant
 * Chaque individu est décrit par K variables : ce nuage se trouve donc dans l'espace $R^K$.
 * NB : il y a I individus, ce qui explique l'indice I dans $N_I$. <br/>
-* En se référant au tableau de données initial, on a pour l'individu i : $ind~i = x_{i1}~var~1 + x_{i2}~var~2 + ... + x_{iK}~var~K$.  
+* En se référant au tableau de données initial, on a pour l'individu i : $ind~i = x_{i1}~var1 + x_{i2}~var2 + ... + x_{iK}~varK$.  
 Autrement dit, chaque individu s'exprime comme combinaison linéaire des variables.  
 Les axes du repère sont données par les variables. 
 
@@ -23,7 +23,7 @@ Les axes du repère sont données par les variables.
 
 ## Distance entre les points
 
-* La ressemblance des individus va se traduire par des points proches en terme de distance.
+* La ressemblance des individus se traduire par la distance entre les points.
 * L'ensemble des distances entre les points constitue la 'forme du nuage'. 
 * Etudier la forme du nuage revient à déceler :
   * une partition de ces points : des groupes homogènes ;  une typologie des individus   
