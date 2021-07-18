@@ -56,8 +56,8 @@ Pour chaque variable/colonne, on notera :
 ## Poids des données
 
 Dans toute la suite, on attribuera :
-* le même poids à chaque individu : $\frac{1}{I}
-* le même poids à chaque variable : 1. <vr/>
+* le même poids à chaque individu : $\frac{1}{I}$
+* le même poids à chaque variable : 1. <br/>
 
 
 ## Préparation des données
