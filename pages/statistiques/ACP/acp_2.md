@@ -47,7 +47,9 @@ Contrairement au cas précédent, le nuage $N_K$ n'est pas centré en $G_I$. <br
 
 {: .box-note} 
 **Propriétés** <br/>
+
 P1 : Le cosinus de l'angle entre deux variables $V_k$ et $V_l$ est égal au coefficient de corrélation de $V_k$ et $V_l$ :
 $$cos(V_k,V_l) = corr(V_k,V_l)$$.  <br/>
+
 P2 : Toutes les variables sont de longueur 1.  
 Les extrêmités des variables sont donc tous situées sur la sphère de rayon 1.
