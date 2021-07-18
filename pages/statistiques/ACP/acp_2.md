@@ -13,8 +13,12 @@ Nous avons deux nuages de points.
 * Chaque individu est décrit par K variables : ce nuage se trouve donc dans l'espace $R^K$.
 * NB : il y a I individus, ce qui explique l'indice I dans $N_I$. <br/>
 * Les axes du repère sont données par les variables. 
-* Chaque individu s'exprime comme combinaison linéaire des variables.  
-En se référant au tableau de données initial, on a pour l'individu i : $ind~i = x_{i1}~var1 + x_{i2}~var2 + ... + x_{iK}~varK$.  
+* Pour chaque individu i, $ind~i = (x_{i1},x_{i2},...,x_{iK}$  
+où 
+  * $x_{i1}$ est la coordonnées pour la variable 1
+  * $x_{i2}$ est la coordonnée pour la variable 2
+  * ...
+  * $x_{iK}$ est la coordonnée pour la variable K. 
   
 
 ## Point particulier : le centre de gravité $G_I$
@@ -46,7 +50,7 @@ Il est alors nécessaire d'avoir une représentation plane de ce nuage, une qui 
 Contrairement au cas précédent, le nuage $N_K$ n'est pas centré en $G_I$. <br/>
 
 ## Propriétés du nuage $N_K$
-
+ 
 {: .box-note} 
 **Propriétés** <br/><br/>
 P1 : Le cosinus de l'angle entre deux variables $V_k$ et $V_l$ est égal au coefficient de corrélation de $V_k$ et $V_l$ :
