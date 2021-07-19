@@ -10,7 +10,7 @@ On voudrait obtenir une représentation approchée du nuage $N_K$, de petite dim
 
 ## Contraintes ?
 
-On voudrait conserver au mieux les angles entre les vecteurs, autrement dit la corrélation entre les variables. 
+On voudrait conserver au mieux les angles entre les vecteurs, autrement dit les corrélations entre les variables. 
 
 ##  Comment trouver cette représentation approchée ? 
 
@@ -25,12 +25,13 @@ On applique le même procédé que précédemment.
   * On cherche une suite de vecteurs $v_1, v_2, ...$ telle que 
     * chaque direction $v_s$ maximise la quantité $$\sum_k (OH^s_k)^2$$ 
     * chaque direction $v_s$ est orthogonale aux axes de rangs inférieurs.  
+  * Remarque : on somme sur les variables k, on utilise donc les poids des variables qu'on a fixé à 1. <br/><br/> 
   
 * <u>Interprétation</u>
-  * Rappelons l'origine O du repère n'est pas confondu avec le centre de gravité $G_I$ du nuage : la somme précédente ne représente plus une variance.  
-  * $OH^s_k$ est égal au cosinus de l'angle entre le vecteur initial $\vec{OM_k}$ et $v_s$, c'et-à-dire le coefficient de corrélation entre la variable initiale et la nouvelle variable.   
-  * La variable $v_s$ maximise la quantité $$\sum_k (corr(v_s,vark))^2$$ : $v_s$ est la nouvelle varaible qui est la plus corrélée à lensemble des K variables.  
-    En ce sens, elle constitue une bonne variable synthétique.   
+  * Rappelons que l'origine O du repère n'est pas confondue avec le centre de gravité $G_I$ du nuage : la somme précédente ne représente plus une variance.  
+  * $OH^s_k$ est égal au cosinus de l'angle entre le vecteur initial $\vec{OM_k}$ et $v_s$, c'est-à-dire le coefficient de corrélation entre la variable initiale et la nouvelle variable.   
+  * La variable $v_s$ maximise la quantité $$\sum_k \[corr(v_s,vark)\]^2$$ : $v_s$ est la nouvelle variable qui est la plus corrélée à l'ensemble des K variables.  
+    En ce sens, elle constitue une bonne variable synthétique.   <br/> 
 
 
 
