@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ACP
-subtitle: (5)
+subtitle: (5) Quelles relations entre les deux représentations simplifiées ? 
 ---
 
 
-# Quelle relation entre les deux représentations simplifiées ? 
+
