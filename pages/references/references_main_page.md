@@ -7,15 +7,19 @@ subtitle: Livres, Liens
 
 # Python 
 
-| livre (titre) | livre (auteur)| Liens |
-|:-------|:-------|:-------|
-|Python pour le Data Scientist|Emmanuel Jakobowicz|[github](https://github.com/emjako)|
-|Apprendre à programmer avec Python 3|Gérard Swinnen|| 
+|livre  | | sites, github | vidéos |
+:-------|:-------|:-------|:------|
+|Python pour le Data Scientist|Emmanuel Jakobowicz|[github](https://github.com/emjako)||
+|Apprendre à programmer avec Python 3|Gérard Swinnen||| 
+|||||
+|||[Machine Learnia](https://machinelearnia.com/)|[Machine Learnia](https://www.youtube.com/c/MachineLearnia/videos)|
 
 
 # Machine Learning
 
-| livre (titre) | livre (auteur)| Liens |
-|:-------|:-------|:-------|
-|Hands-On Machine Learning with Scikit-Learn, Kears and TensorFlow|Aurélien Géron|[github](https://github.com/ageron)|
-|L'apprentissage Profond avec Python| Francois Chollet|[github](https://github.com/fchollet?tab=repositories) <br/> [livre (version anglaise, edition 1)](https://www.manning.com/books/deep-learning-with-python#toc)| 
+| livre  |  | sites, github | vidéos |
+|:-------|:-------|:-------|:----|
+|Hands-On Machine Learning with Scikit-Learn, Kears and TensorFlow|Aurélien Géron|[github](https://github.com/ageron)||
+|L'Apprentissage Profond avec Python| Francois Chollet|[github](https://github.com/fchollet?tab=repositories) <br/> [livre (version anglaise, edition 1)](https://www.manning.com/books/deep-learning-with-python#toc)||
+||||||
+|||[Machine Learnia](https://machinelearnia.com/)|[Machine Learnia](https://www.youtube.com/c/MachineLearnia/videos)|
