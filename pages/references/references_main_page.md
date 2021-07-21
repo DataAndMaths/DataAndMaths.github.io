@@ -18,4 +18,4 @@ subtitle: Livres, Liens
 | livre (titre) | livre (auteur)| Liens |
 |:-------|:-------|:-------|
 |Hands-On Machine Learning with Scikit-Learn, Kears and TensorFlow|Aurélien Géron|[github](https://github.com/ageron)|
-[L'apprentissage Profond avec Python| Francois Chollet|[github](https://github.com/fchollet?tab=repositories) <br/> [livre (version anglaise, edition 1)[https://www.manning.com/books/deep-learning-with-python#toc]| 
+[L'apprentissage Profond avec Python| Francois Chollet|[github](https://github.com/fchollet?tab=repositories) <br/> [livre (version anglaise, edition 1)](https://www.manning.com/books/deep-learning-with-python#toc)| 
