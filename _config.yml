@@ -18,7 +18,7 @@ navbar-links:
   Pages:           
     - Python: "pages/Python/python_main_page"
     - Statistiques: "pages/statistiques/stat_main_page"
-    - Références: "pages/"references/references_main_page"
+    - Références: "pages/references/references_main_page"
     ##- Beautiful Jekyll: "https://beautifuljekyll.com"
     ##- Learn markdown: "https://www.markdowntutorial.com/"
   ##Author's home: "https://deanattali.com"
