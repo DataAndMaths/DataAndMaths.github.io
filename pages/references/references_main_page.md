@@ -31,4 +31,4 @@ subtitle: Livres, Liens
 
 | livres  |  |livres en ligne| sites, github | vidéos |
 |:-------|:-------|:-------|:----|:----|
-||||[github](https://github.com/daattali/beautiful-jekyll)|[Beautiful Jekyll](https://beautifuljekyll.com)|
+||||[Beautiful Jekyll](https://beautifuljekyll.com) <br/> [github](https://github.com/daattali/beautiful-jekyll)||
