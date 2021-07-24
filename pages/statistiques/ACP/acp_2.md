@@ -12,7 +12,7 @@ Nous avons deux nuages de points.
 ## L'espace ambiant
 * Chaque individu est décrit par K variables : ce nuage se trouve donc dans l'espace $R^K$.
 * NB : il y a I individus, ce qui explique l'indice I dans $N_I$. <br/>
-* Les axes du repère sont données par les variables. 
+* Chaque axe du repère correspond à une variable. 
 * En se référant au tableau de données initial, on a pour chaque individu i, $ind~i = (x_{i1},x_{i2},...,x_{iK})$  
 où 
   * $x_{i1}$ est la coordonnée pour la variable 1
@@ -28,15 +28,15 @@ où
 
 ## Distance entre les points
 
-* La ressemblance des individus se traduit par la distance entre les points.
-* L'ensemble des distances entre les points constitue la 'forme du nuage'. 
+* La ressemblance des individus se traduit par la **distance** entre les points : $$d(vari,varl) = \sum_k (x_{ik} - x_{lk})^2$$.
+* L'ensemble des distances entre les points constitue la **forme du nuage**. 
 * Etudier la forme du nuage revient à déceler :
-  * une partition de ces points : des groupes homogènes ;  une typologie des individus   
-  * des directions d'allongement remarquables : les dimensions principales de variabilité. <br/>
+  * des **groupes**   
+  * des **directions d'allongement** remarquables. <br/>
 
 ## Problème en grande dimension
 Dès que le nombre de variable est > 3, il est impossible d'étudier directement ce nuage.   
-Il est alors nécessaire d'avoir une représentation plane de ce nuage, une qui approche au mieux le nuage initial. <br/><br/>
+Nous allons chercher une représentation plane de ce nuage, une qui approche au mieux le nuage initial. <br/><br/>
 
 
 # Nuage des variables $N_K$
