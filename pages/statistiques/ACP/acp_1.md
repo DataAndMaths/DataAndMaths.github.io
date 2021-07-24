@@ -36,9 +36,7 @@ Pour chaque variable/colonne, on notera :
 * On voudrait étudier la **variabilité** entre les individus, en étudiant la **ressemblance** des individus :
     * Quelles sont les individus qui se ressemblent ? 
     * Quelles sont ceux qui sont diffèrents ? 
-<!--* Quelle est la tendance générale ? la structure générale ?  
-* Y a-t-il des groupes homogènes d'individus ? Quelle est la typologie des individus ?
-* Quelles sont les principales dimensions de variabilité des individus ? -->
+
 
 ## Etudier les variables
 
@@ -46,13 +44,9 @@ Pour chaque variable/colonne, on notera :
     * Quelles sont les variables corrélées positivement entre elles ? 
     * Quelles sont les variables corrélées négativement entre elles ? 
 * Peut-on synthétiser les variables par un nombre restreint de **variables synthétiques** ? 
-<!--* Quelle est la typologie des variables ?-->
 * NB : en ACP, on ne considère que les liaisons linéaires. 
     * On utilise le coefficient de corrélation entre deux variables. 
-    * Tous ces coefficients sont rangés dans une matrice, la matrice de corrélation. 
-    
-<!--* Comment pourrait-on synthétiser ces variables ?  
-  Ces variables synthétiques seront les fameuses composantes principales. --> <br/><br/>
+    * Tous ces coefficients sont rangés dans une matrice, la matrice de corrélation. <br/><br/>
   
   
 # Quelques points techniques
