@@ -47,7 +47,10 @@ Pour chaque variable/colonne, on notera :
     * Quelles sont les variables corrélées négativement entre elles ? 
 * Peut-on synthétiser les variables par un nombre restreint de **variables synthétiques** ? 
 <!--* Quelle est la typologie des variables ?-->
-* En ACP, on ne considère que les liaisons linéaires. 
+* NB : en ACP, on ne considère que les liaisons linéaires. 
+    * On utilise le coefficient de corrélation entre deux variables. 
+    * Tous ces coefficients sont rangés dans une matrice, la matrice de corrélation. 
+    
 <!--* Comment pourrait-on synthétiser ces variables ?  
   Ces variables synthétiques seront les fameuses composantes principales. --> <br/><br/>
   
