@@ -23,7 +23,7 @@ où
 
 ## Point particulier : le centre de gravité $G_I$
 
-* $$G_I = (\bar{x}_1,...,\bar{x}_K)$$
+* $G_I = (\bar{x}_1,...,\bar{x}_K)$
 * Les données étant centrées, le centre de gravité du nuage est confondu avec l'origine O des axes. 
 * On peut voir $G_I$ comme étant l'individu moyen. <br/>
 
