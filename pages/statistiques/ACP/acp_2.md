@@ -29,7 +29,8 @@ où
 
 ## Distance entre les points
 
-* La ressemblance des individus se traduit par la **distance** entre les points : $$d(vari,varl) = \sum_k (x_{ik} - x_{lk})^2$$.
+* La ressemblance des individus se traduit par la **distance** entre les points : 
+$$d(vari,varl) = \sum_k (x_{ik} - x_{lk})^2$$.
 * L'ensemble des distances entre les points constitue la **forme du nuage**. 
 * Etudier la forme du nuage revient à déceler :
   * des **groupes**   
