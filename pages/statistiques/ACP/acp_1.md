@@ -33,21 +33,23 @@ Pour chaque variable/colonne, on notera :
 ## Etudier les individus
 
 * On voudrait les étudier en considérant toutes les variables dans son ensemble, et non pas une par une. 
-* Quelles sont les individus qui se ressemblent ? Quelles sont ceux qui diffèrent ? 
-* Quelle est la tendance générale ? la structure générale ?  
-* Y a-t-il des groupes homogènes d'individus ? 
-* Quelle est la typologie des individus ?
-* Quelles sont les principales dimensions de variabilité des individus ?
+* On voudrait étudier la **variabilité** entre les individus, en étudiant la **ressemblance** des individus :
+    * Quelles sont les individus qui se ressemblent ? 
+    * Quelles sont ceux qui sont diffèrents ? 
+<!--* Quelle est la tendance générale ? la structure générale ?  
+* Y a-t-il des groupes homogènes d'individus ? Quelle est la typologie des individus ?
+* Quelles sont les principales dimensions de variabilité des individus ? -->
 
 ## Etudier les variables
 
-* Quelles sont les variables corrélées positivement entre elles ? 
-* Quelles sont les variables corrélées négativement entre elles ? 
-* Existe-t-il des groupes de variables corrélées entre elles ?
-* Quelle est la typologie des variables ?
+* On voudrait étudier les **liaisons** entre les variables.
+    * Quelles sont les variables corrélées positivement entre elles ? 
+    * Quelles sont les variables corrélées négativement entre elles ? 
+* Peut-on synthétiser les variables par un nombre restreint de **variables synthétiques** ? 
+<!--* Quelle est la typologie des variables ?-->
 * En ACP, on ne considère que les liaisons linéaires. 
-* Comment pourrait-on synthétiser ces variables ?  
-  Ces variables synthétiques seront les fameuses composantes principales. <br/><br/>
+<!--* Comment pourrait-on synthétiser ces variables ?  
+  Ces variables synthétiques seront les fameuses composantes principales. --> <br/><br/>
   
   
 # Quelques points techniques
