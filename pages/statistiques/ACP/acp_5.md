@@ -4,6 +4,8 @@ title: ACP
 subtitle: (5) Quelles sont les relations entre ces deux représentations approchées ? 
 ---
 
+<br/> 
+
 # Relation de dualité 1
 
 * On prend tous les points du nuage des individus $N_I$.
@@ -14,6 +16,7 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
     * $F_s$ est la **composante principale** de rang s.
     * $F_s$ est la composante principale normée de rang s. 
 
+<br/> 
 
 # Relation de dualité 2
 
@@ -22,7 +25,9 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 * On obtient un nouveau vecteur de $R^K$ : $G_s = (G_s(1),G_s(2),...,G_s(K))$.   
 * {: .box-note}
 **Propriété** ~~ $G_s = \sqrt{\lambda_s} u_s$. 
-    
+
+<br/>
+
 # Relation de dualité 3
 
 {: .box-note}
@@ -31,3 +36,4 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 $$ \sum_i \frac{1}{I} {OH_^s_i}^2 = \sum_k {OH_^s_k}^2 = \lanbda_s$.
 * Les deux nuages ont la même inertie totale : K, le nombre de variables.  
 
+<br/>
