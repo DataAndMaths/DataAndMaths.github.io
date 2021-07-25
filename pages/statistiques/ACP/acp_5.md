@@ -12,7 +12,7 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 * On les projette sur l'axe $u_s$ : la coordonnée du point $M_i$ sur cet axe est $OH^s_i$, que l'on notera $F_s(i)$.
 * On obtient un nouveau vecteur de $R^I$ : $F_s = (F_s(1),F_s(2),...,F_s(I))$.   
 * {: .box-note}
-**Propriété** <br/>   $F_s = \sqrt{\lambda_s} v_s$. 
+**Propriété**      $F_s = \sqrt{\lambda_s} v_s$. 
     * $F_s$ est la **composante principale** de rang s.
     * $F_s$ est la composante principale normée de rang s. 
 
@@ -24,7 +24,7 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 * On les projette sur l'axe $v_s$ : la coordonnée du point $M_k$ sur cet axe est $OH^s_k$, que l'on notera $G_s(k)$.
 * On obtient un nouveau vecteur de $R^K$ : $G_s = (G_s(1),G_s(2),...,G_s(K))$.   
 * {: .box-note}
-**Propriété** \\ $G_s = \sqrt{\lambda_s} u_s$. 
+**Propriété**  $G_s = \sqrt{\lambda_s} u_s$. 
 
 <br/>
 
