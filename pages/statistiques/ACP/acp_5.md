@@ -24,16 +24,15 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 * On les projette sur l'axe $v_s$ : la coordonnée du point $M_k$ sur cet axe est $OH^s_k$, que l'on notera $G_s(k)$.
 * On obtient un nouveau vecteur de $R^K$ : $G_s = (G_s(1),G_s(2),...,G_s(K))$.   
 * {: .box-note}
-**Propriété** &nbsp &nbsp $G_s = \sqrt{\lambda_s} u_s$. 
+**Propriété**     $G_s = \sqrt{\lambda_s} u_s$. 
 
 <br/>
 
 # Relation de dualité 3
 
 {: .box-note} 
-**Propriété** <br/>
-   * Les inerties projetées de $N_I$ sur $u_s$ d'une part et de $N_K$ sur $v_s$ d'autre part sont égales : 
+**Propriété** * Les inerties projetées de $N_I$ sur $u_s$ d'une part et de $N_K$ sur $v_s$ d'autre part sont égales : 
 $$ \sum_i \frac{1}{I} {OH_^s_i}^2 = \sum_k {OH_^s_k}^2 = \lambda_s$$.
-   * Les deux nuages ont la même inertie totale : K, le nombre de variables.  
+* Les deux nuages ont la même inertie totale : K, le nombre de variables.  
 
 <br/>
