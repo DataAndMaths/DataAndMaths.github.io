@@ -30,10 +30,9 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 
 # Relation de dualité 3
 
-{: .box-note}
-**Propriété** <br/>
+{: .box-note} **Propriété** <br/>
 * Les inerties projetées de $N_I$ sur $u_s$ d'une part et de $N_K$ sur $v_s$ d'autre part sont égales : 
-$$ \sum_i \frac{1}{I} {OH_^s_i}^2 = \sum_k {OH_^s_k}^2 = \lanbda_s$.
+$$ \sum_i \frac{1}{I} {OH_^s_i}^2 = \sum_k {OH_^s_k}^2 = \lanbda_s$$.
 * Les deux nuages ont la même inertie totale : K, le nombre de variables.  
 
 <br/>
