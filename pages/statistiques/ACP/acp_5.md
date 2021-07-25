@@ -33,7 +33,7 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 {: .box-note} 
 **Propriété** <br/>
 1) Les inerties projetées de $N_I$ sur $u_s$ d'une part et de $N_K$ sur $v_s$ d'autre part sont égales :
-$$\sum_i \frac{1}{I} {OH_^s_i}^2 = \sum_k {OH_^s_k}^2 = \lambda_s$$. <br/>
+$$\sum_i \frac{1}{I} {OH^s_i}^2 = \sum_k {OH^s_k}^2 = \lambda_s$$. <br/>
 2)  Les deux nuages ont la même inertie totale : K, le nombre de variables.  
 
 <br/>
