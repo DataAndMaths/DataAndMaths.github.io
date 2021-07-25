@@ -6,11 +6,7 @@ subtitle: (4) Comment représenter le nuage des variables $N_K$ plus simplement 
 
 ## Objectif général ? 
 
-On voudrait obtenir une représentation approchée du nuage $N_K$, de petite dimension.
-
-## Contraintes ?
-
-On voudrait conserver au mieux les angles entre les vecteurs, autrement dit les corrélations entre les variables. 
+On voudrait obtenir une représentation approchée du nuage $N_K$, de petite dimension. 
 
 ##  Comment trouver cette représentation approchée ? 
 
