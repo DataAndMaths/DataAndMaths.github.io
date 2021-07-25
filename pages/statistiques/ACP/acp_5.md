@@ -24,7 +24,7 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 * On les projette sur l'axe $v_s$ : la coordonnée du point $M_k$ sur cet axe est $OH^s_k$, que l'on notera $G_s(k)$.
 * On obtient un nouveau vecteur de $R^K$ : $G_s = (G_s(1),G_s(2),...,G_s(K))$.   
 * {: .box-note}
-**Propriété**  <br/>   $G_s = \sqrt{\lambda_s} u_s$. 
+**Propriété** \\ $G_s = \sqrt{\lambda_s} u_s$. 
 
 <br/>
 
