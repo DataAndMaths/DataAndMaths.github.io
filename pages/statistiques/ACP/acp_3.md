@@ -11,10 +11,6 @@ subtitle: (3)
 
 On voudrait obtenir une représentation approchée du nuage $N_I$, de petite dimension.
 
-## Contraintes ?
-
-On voudrait conserver au mieux les distances entre les individus. 
-
 ##  Comment trouver cette représentation approchée ? 
 
 On va le faire axe par axe : on recherche un 1e axe qui va représenter au mieux le nuage de points, puis un 2e axe, puis un 3e, ...
