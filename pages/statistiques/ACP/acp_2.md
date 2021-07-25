@@ -61,9 +61,9 @@ P2 : Toutes les variables sont de **longueur 1**.
 Les extrêmités des variables sont donc tous situées sur la sphère de rayon 1. 
 
 Cas particuliers (pour la propriété P1) :
-* $corr(V_k, V_l) = 1 \Leftrightarrow cos(V_k, V_l) = 1 \leftrightarrow$  $V_k$ et $V_l$ sont colinéaires de même sens. 
-* $corr(V_k, V_l) = -1\leftrightarrow cos(V_k, V_l) = -1 \leftrightarrow$  $V_k$ et $V_l$ sont colinéaires de sens opposés. 
-* $corr(V_k, V_l) = 0 \leftrightarro cos(V_k, V_l) = 0 \leftrightarrow$  $V_k$ et $V_l$ sont orthogonaux. 
+* $corr(V_k, V_l) = 1 \Leftrightarrow cos(V_k, V_l) = 1 \Leftrightarrow$  $V_k$ et $V_l$ sont colinéaires de même sens. 
+* $corr(V_k, V_l) = -1\Leftrightarrow cos(V_k, V_l) = -1 \Leftrightarrow$  $V_k$ et $V_l$ sont colinéaires de sens opposés. 
+* $corr(V_k, V_l) = 0 \Leftrightarrow cos(V_k, V_l) = 0 \Leftrightarrow$  $V_k$ et $V_l$ sont orthogonaux. 
 
 ## Problème en grande dimension
 Nous avons toujours I > 3, il est impossible d'étudier directement ce nuage $N_K$.   
