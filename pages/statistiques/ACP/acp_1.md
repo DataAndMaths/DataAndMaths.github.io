@@ -33,9 +33,11 @@ Pour chaque variable/colonne, on notera :
 ## Etudier les individus
 
 * On voudrait les étudier en considérant toutes les variables dans son ensemble, et non pas une par une. 
-* On voudrait étudier la **variabilité** entre les individus, en étudiant la **ressemblance** des individus :
-    * Quelles sont les individus qui se ressemblent ? 
-    * Quelles sont ceux qui sont diffèrents ? 
+* On voudrait étudier la **variabilité** entre les individus :
+   * On étudie la **ressemblance** des individus :
+      * Quelles sont les individus qui se ressemblent ? 
+      * Quelles sont ceux qui sont diffèrents ?
+   * Quelles sont les **principales directions de variabilité** ?  
 
 
 ## Etudier les variables
