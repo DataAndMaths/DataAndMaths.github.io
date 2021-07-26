@@ -27,7 +27,7 @@ On applique le même procédé que précédemment.
   * Rappelons que l'origine O du repère n'est pas confondue avec le centre de gravité $G_I$ du nuage : la somme précédente ne représente plus une variance.  
   * $OH^s_k$ est égal au cosinus de l'angle entre le vecteur initial $\vec{OM_k}$ et $v_s$, c'est-à-dire le coefficient de corrélation entre la variable initiale et la nouvelle variable.   
   * La variable $v_s$ maximise la quantité $$\sum_k [corr(v_s,vark)]^2$$ : $v_s$ est la nouvelle variable qui est la plus corrélée à l'ensemble des K variables.  
-    En ce sens, elle constitue une bonne variable synthétique.   
+    En ce sens, elle constitue une bonne **variable synthétique**.   
     
 <br/> 
 
