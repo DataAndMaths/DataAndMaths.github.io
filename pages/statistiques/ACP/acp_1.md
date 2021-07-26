@@ -37,7 +37,7 @@ Pour chaque variable/colonne, on notera :
    * On étudie la **ressemblance** des individus :
       * Quelles sont les individus qui se ressemblent ? 
       * Quelles sont ceux qui sont diffèrents ?
-   * Quelles sont les **principales directions de variabilité** ?  
+   * Quelles sont les **principales dimensions de variabilité** ?  
 
 
 ## Etudier les variables
