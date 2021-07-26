@@ -36,5 +36,5 @@ On applique le même procédé que précédemment.
 ## Comment obtenir ces axes ? 
 
 * On peut montrer que ces axes sont aussi les vecteurs propres d'une autre matrice. 
-* Ces axes sont liés aux vecteurs propres $u_s$ de la matrice de corrélation (cf partie suivante). 
+* Ces axes sont en fait liés aux vecteurs propres $u_s$ de la matrice de corrélation (cf partie suivante). 
  
