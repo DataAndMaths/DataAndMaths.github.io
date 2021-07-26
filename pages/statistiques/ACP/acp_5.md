@@ -14,7 +14,7 @@ subtitle: (5) Quelles sont les relations entre ces deux représentations approch
 * {: .box-note}
 **Propriété**      $F_s = \sqrt{\lambda_s} v_s$. 
     * $F_s$ est la **composante principale** de rang s.
-    * $F_s$ est la composante principale normée de rang s. 
+    * $v_s$ est la composante principale normée de rang s. 
 
 <br/> 
 
