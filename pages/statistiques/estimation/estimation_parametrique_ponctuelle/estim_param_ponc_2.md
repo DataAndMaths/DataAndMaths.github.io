@@ -18,13 +18,11 @@ $$T_n = h(X_1,...,X_n)$$ pour une certaine fonction h.
 Nous considérons ici les deux critères suivants. 
 
 {: .box-note} 
-**Définition 1** 
-
+**Définition 1** <br/>
 Un estimateur $T_n$ est dit **sans biais** si $E(T_n) = \theta$ ; autrement dit, s'il ne sous-estime ni ne sur-estime le paramètre $\theta$ en moyenne. 
 
 
 {: .box-note} 
-**Définition 2**
-
+**Définition 2** <br/>
 Un estimateur $T_n$ est dit **convergent** si : $(T_n)$ converge (en un certain sens) vers $\theta$ lorsque la taille de l'échantillon n tend vers l'infini.  
 
