@@ -24,7 +24,7 @@ subtitle: (1) Cadre général
     * avant tirage : n variables aléatoires $X_1, X_2, ..., X_n$
         * indépendantes
         * de même loi $N(\mu, \sigma^2)$ 
-        * moyenne $\bar x$
+        * moyenne $\bar X$
         * variance S.
 
 # Problème
