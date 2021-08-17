@@ -19,12 +19,12 @@ subtitle: (1) Cadre général
 * n : nombre d'individus de l'échantillon, sur laquelle on mesure la variable X
 * 2 points de vue : 
     * après tirage : n valeurs numériques $x_1, x_2, ..., x_n$
-        * moyenne $\bar(x)$
+        * moyenne $\bar x$
         * variance s   
     * avant tirage : n variables aléatoires $X_1, X_2, ..., X_n$
         * indépendantes
         * de même loi $N(\mu, \sigma^2)$ 
-        * moyenne $\bar(X)$
+        * moyenne $\bar x$
         * variance S.
 
 # Problème
