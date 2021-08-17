@@ -13,7 +13,7 @@ Une **estimateur** $T_n$ d'un paramètre inconnu $\theta$ est une expression qui
 
 $$T_n = h(X_1,...,X_n)$$ pour une certaine fonction h. 
 
-# Qu'est'ce qu'un bon estimateur ? 
+# Qu'est-ce qu'un bon estimateur ? 
 
 Nous considérons ici les deux critères suivants. 
 
