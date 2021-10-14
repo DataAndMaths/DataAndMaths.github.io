@@ -10,7 +10,7 @@ tags: [environnement, air]
 comments: true
 ---
 <p align="center">
-<img src="/assets/img/pexels-skitterphoto-735784.jpg" alt="drawing" width="9000" height="600" #center/>
+<img src="/assets/img/pexels-skitterphoto-735784.jpg" alt="drawing" width="9000" height="600"/>
 </p>
 
 <br/><br/>
