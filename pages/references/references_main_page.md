@@ -11,7 +11,6 @@ subtitle: Livres, Liens
 :-------|:-------|:-------|:------|:----|
 |Python pour le Data Scientist|Emmanuel Jakobowicz|x|[github](https://github.com/emjako)|x|
 |Apprendre à programmer avec Python 3|Gérard Swinnen|x|x|x|
-||||||
 |x|x|x|[site](https://machinelearnia.com/)|[Machine Learnia](https://www.youtube.com/c/MachineLearnia/videos)|
 
 <br/>
