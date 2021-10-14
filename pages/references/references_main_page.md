@@ -38,6 +38,16 @@ subtitle: Livres, Liens
 
 <br/>
 
+# MLops
+
+| livres  |  |livres en ligne| sites, github | vidéos |
+|:-------|:-------|:-------|:----|:-----|
+|x|x|Goku Mohandas|x|[madewithml](https://madewithml.com/)|(liens dans les tutos)|
+|x|x|x|[MLflow](https://mlflow.org/)|x|
+
+
+<br/>
+
 # Construire une Page web
 
 | livres  |  |livres en ligne| sites, github | vidéos |
