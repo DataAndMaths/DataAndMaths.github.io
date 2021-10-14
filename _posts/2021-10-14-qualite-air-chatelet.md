@@ -2,14 +2,16 @@
 layout: post
 title: Qualité de l'air à la station Châtelet
 subtitle: 
-<!--thumbnail-img: /assets/img/appli_agribalyse_img.png-->
+thumbnail-img: /assets/img/pexels-olya-kobruseva-5556351.jpg
 gh-repo: DataAndMaths/qualite_air_chatelet 
 gh-badge: [star, fork, follow]
 tags: [environnement, air]
 
 comments: true
 ---
-
+<p align="center">
+<img src="/assets/img/pexels-skitterphoto-735784.jpg" alt="drawing" width="9000" height="600" #center/>
+</p>
 
 <br/><br/>
 
