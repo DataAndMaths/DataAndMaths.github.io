@@ -9,10 +9,10 @@ subtitle: Livres, Liens
 
 |livres  | | livres en ligne| sites, github | vidéos |
 :-------|:-------|:-------|:------|:----|
-|Python pour le Data Scientist|Emmanuel Jakobowicz||[github](https://github.com/emjako)||
-|Apprendre à programmer avec Python 3|Gérard Swinnen||||
+|Python pour le Data Scientist|Emmanuel Jakobowicz|x|[github](https://github.com/emjako)|x|
+|Apprendre à programmer avec Python 3|Gérard Swinnen|x|x|x|
 ||||||
-||||[site](https://machinelearnia.com/)|[Machine Learnia](https://www.youtube.com/c/MachineLearnia/videos)|
+|x|x|x|[site](https://machinelearnia.com/)|[Machine Learnia](https://www.youtube.com/c/MachineLearnia/videos)|
 
 <br/>
 
@@ -20,10 +20,9 @@ subtitle: Livres, Liens
 
 | livres  |  |livres en ligne| sites, github | vidéos |
 |:-------|:-------|:-------|:----|:-----|
-|Hands-On Machine Learning with Scikit-Learn, Kears and TensorFlow|Aurélien Géron||[github](https://github.com/ageron)||
-|L'Apprentissage Profond avec Python| Francois Chollet|[livre (version anglaise, edition 1)](https://www.manning.com/books/deep-learning-with-python#toc)| [github](https://github.com/fchollet?tab=repositories) ||
-||||||
-||||[site](https://machinelearnia.com/)|[Machine Learnia](https://www.youtube.com/c/MachineLearnia/videos)|
+|Hands-On Machine Learning with Scikit-Learn, Kears and TensorFlow|Aurélien Géron||[github](https://github.com/ageron)|x|
+|L'Apprentissage Profond avec Python| Francois Chollet|x| [github](https://github.com/fchollet?tab=repositories) |x|
+|x|x|x|[site](https://machinelearnia.com/)|[Machine Learnia](https://www.youtube.com/c/MachineLearnia/videos)|
 
 <br/>
 
@@ -31,4 +30,4 @@ subtitle: Livres, Liens
 
 | livres  |  |livres en ligne| sites, github | vidéos |
 |:-------|:-------|:-------|:----|:----|
-||||* [site Beautiful Jekyll](https://beautifuljekyll.com) <br/> * [github](https://github.com/daattali/beautiful-jekyll)||
+|x|x|x|* [site Beautiful Jekyll](https://beautifuljekyll.com) <br/> * [github](https://github.com/daattali/beautiful-jekyll)||
