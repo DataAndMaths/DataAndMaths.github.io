@@ -1,15 +1,11 @@
 ---
 layout: page
 title: Modèle ARIMA
-subtitle: 
+subtitle: Quelques mots sur le modèle ARIMA
 ---
 
 ---
 <br/>
-
-# Quelques mots sur le modèle ARIMA
-<br/>
-
 |Modèle ARIMA||
 |:-----------------|:------------------------------------------------------------------------------------------|
 |Idée              |capturer l'autocorrélation dans une série temporelle                                        |
