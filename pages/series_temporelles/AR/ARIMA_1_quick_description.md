@@ -8,14 +8,15 @@ subtitle:
 <br/>
 
 # Overview
+
 |Modèle ARIMA||
 |:-----------------|:------------------------------------------------------------------------------------------|
-|Idée              |capturer l'autocorrélation dans une série temporelle                                        |
-|Utilisation       |pour la prévision                                                                                  |
+|Idée              |capturer l'autocorrélation dans une série temporelle                                       |
+|Utilisation       |pour la prévision                                                                          |
 |Concepts-clés     |l'ordre et la différenciation                                                              |
 |Etapes            |1) differencier <br/> 2) entraîner un modèle ARMA sur la séries différenciées              |
 |Notation du modèle|ARIMA(p,d,q)                                                                               |
-|Hypothèse         |stationnarité de la série                                                                   |
+|Hypothèse         |stationnarité de la série                                                                  |
 
 <br/><br/>
 
