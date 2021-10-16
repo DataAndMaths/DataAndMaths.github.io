@@ -8,6 +8,8 @@ subtitle:
 
 # Quelques mots sur le modèle ARIMA
 
+<br/><br/>
+
 |Modèle ARIMA||
 |:-----------------|:------------------------------------------------------------------------------------------|
 |Idée              |capturer l'autocorrélation dans une série temporelle                                        |
@@ -16,6 +18,8 @@ subtitle:
 |Etapes            |1) differencier <br/> 2) entraîner un modèle ARMA sur la séries différenciées              |
 |Notation du modèle|ARIMA(p,d,q)                                                                               |
 |Hypothèse         |stationnarité de la série                                                                   |
+
+<br/><br/>
 
 ## <u>Précisions</u>
 
@@ -29,8 +33,8 @@ ARIMA = AutoRegressive Integrated Moving Average
     * d=1 : différencier une fois
     * d=2 : différencier deux fois
     * Un ordre 1 ou 2 est généralement suffisant pour obtenir la stationnarité.
-* Cette étape donne le I = Integrated dans ARIMA. 
-<br/>
+* Cette étape donne le I dans ARIMA. 
+<br/><br/>
 
 ### <u>Etape 2 : Modèle ARMA(p,q)</u>
 
