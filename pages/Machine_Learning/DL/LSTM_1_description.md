@@ -7,8 +7,8 @@ subtitle: Long Short-Term Memory
 # Quelques mots sur le modèle LSTM
 
 ## Overview
-* pb RNN : difficulté à entraîner le réseau avec plusieurs couches de profondeur (avec le problème de disparition du gradient)
-* solution : LSTM
+* Problème avec les RNN : difficulté à entraîner le réseau avec plusieurs couches de profondeur (avec le problème de disparition du gradient)
+* Solution : LSTM
     * permet de préserver la mémoire sur le long terme
     
 ## Architecture
