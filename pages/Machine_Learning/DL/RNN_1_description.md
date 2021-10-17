@@ -18,5 +18,6 @@ subtitle: Recurrent Neural Network
     
 ## Architecture 
 
-* ![figure](/assets/img/rnn1.png)
-* ![figure](/assets/img/rnn2.png)
+![figure](/assets/img/rnn1.png)
+
+![figure](/assets/img/rnn2.png)
