@@ -18,5 +18,5 @@ subtitle: Long Short-Term Memory
 
 #### Sources 
 
-* [L'apprentissage profond avec Python, Chollet]
+* L'apprentissage profond avec Python, François Chollet
 * [figures](https://github.com/dvgodoy/dl-visuals/)
