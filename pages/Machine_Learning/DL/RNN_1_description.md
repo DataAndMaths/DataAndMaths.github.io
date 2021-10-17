@@ -21,3 +21,9 @@ subtitle: Recurrent Neural Network
 ![figure](/assets/img/rnn1.png)
 
 ![figure](/assets/img/rnn2.png)
+
+
+#### Sources 
+
+* L'apprentissage profond avec Python, François Chollet
+* [figures](https://github.com/dvgodoy/dl-visuals/)
