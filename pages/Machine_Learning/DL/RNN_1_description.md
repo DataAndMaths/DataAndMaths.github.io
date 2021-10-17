@@ -13,7 +13,7 @@ subtitle: Recurrent Neural Network
     * traduction d'une phrase
     * reconnaissance vocale
 * solution : RNN = Recurrent Neural Network
-    * incorpore une boucle de rétroaction (boucle interne)
+    * incorpore une boucle interne
     * mémoire évolutive + données => sortie
     
 ## Architecture 
