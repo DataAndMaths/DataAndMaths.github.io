@@ -10,8 +10,8 @@ subtitle: Recurrent Neural Network
 
 * Problème des réseaux de neurones 'basiques' : pas de mémoire du passé 
 * Mémoire utile par exemple pour :
-    * traduction d'une phrase
-    * reconnaissance vocale
+    * la traduction d'une phrase
+    * la reconnaissance vocale
 * Solution : RNN = Recurrent Neural Network
     * incorpore une boucle interne
     * mémoire évolutive + données => sortie
