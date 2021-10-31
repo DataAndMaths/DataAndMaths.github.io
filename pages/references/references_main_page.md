@@ -52,3 +52,16 @@ subtitle: Livres, Liens
 | livres  |  |livres en ligne| sites, github | vidéos |
 |:-------|:-------|:-------|:----|:----|
 |x|x|x|* [site Beautiful Jekyll](https://beautifuljekyll.com) <br/> * [github](https://github.com/daattali/beautiful-jekyll)|x|
+
+
+<br/>
+
+# Domaines 
+
+## NLP
+
+### Librairies
+* [nltk](https://www.nltk.org/)
+* [spacy](https://spacy.io/)
+* [wordcloud](http://amueller.github.io/word_cloud/index.html)
+* [gensim](https://radimrehurek.com/gensim/)
