@@ -1,1 +1,1 @@
-Un petit Gitbook sur l'utilisation des lignes de commande dans un terminal (qui suit la trame du cours d'OpenClassroom) : [gitbook](https://dataandmaths-dataandmaths.gitbook.io/lignes-de-commande-dans-un-terminal/).
+Un petit Gitbook sur l'utilisation des lignes de commande dans un terminal (qui suit la trame du cours d'OpenClassroom) : [lien](https://dataandmaths-dataandmaths.gitbook.io/lignes-de-commande-dans-un-terminal/).
