@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lignes de commande dans un terminal
+title: Introduction aux lignes de commande
 subtitle: 
 thumbnail-img: 
 gh-repo: 
