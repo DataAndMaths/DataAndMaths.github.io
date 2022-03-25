@@ -16,7 +16,7 @@ author: DataAndMaths
 navbar-links:
   ##About Me: "aboutme"
   Pages:           
-    - Programmation : "pages/Python/python_main_page"
+    - Programmation : "pages/Programmation/programmation_main_page"
     - Statistiques: "pages/statistiques/stat_main_page"
     - Machine Learning : "pages/Machine_Learning/ML_main_page"
     - Séries Temporelles : "pages/series_temporelles/series_temp_main_page"
